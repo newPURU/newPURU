@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @newPURU
+- 👋 Hi, I’m @newPURU (PURUSHATTOM)
 - 👀 I’m interested in Creat something New 
-- 🌱 I’m currently learning Java Full Stack
-- 📫 How to reach me ... purushattom.personal@gmail.com
+- 🌱 Learning Java Full Stack
+- 📫 To reach me ... purushattom.personal@gmail.com
 
 <!---
 newPURU/newPURU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
